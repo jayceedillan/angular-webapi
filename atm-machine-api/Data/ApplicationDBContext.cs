@@ -10,6 +10,6 @@ namespace atm_machine_api.Data
         { }
 
         public DbSet<Users> Users { get; set; } = null;
-        public DbSet<UsersTransactionHistory> UsersTransactionHistories { get; set; } = null;
+        public DbSet<UsersTransactionHistory> UserTransactionHistories { get; set; } = null;
     }
 }

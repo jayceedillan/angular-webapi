@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using atm_machine_api.Data;
 
@@ -11,9 +12,10 @@ using atm_machine_api.Data;
 namespace atm_machine_api.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
-    partial class ApplicationDBContextModelSnapshot : ModelSnapshot
+    [Migration("20220318132227_addKey")]
+    partial class addKey
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -47,9 +49,6 @@ namespace atm_machine_api.Migrations
                     b.Property<int>("pinNo")
                         .HasColumnType("int");
 
-                    b.Property<int>("userId")
-                        .HasColumnType("int");
-
                     b.HasKey("id");
 
                     b.ToTable("Users");
@@ -62,9 +61,6 @@ namespace atm_machine_api.Migrations
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"), 1L, 1);
-
-                    b.Property<int?>("Usersid")
-                        .HasColumnType("int");
 
                     b.Property<int>("amount")
                         .HasColumnType("int");
@@ -81,23 +77,7 @@ namespace atm_machine_api.Migrations
 
                     b.HasKey("id");
 
-                    b.HasIndex("Usersid");
-
                     b.ToTable("UserTransactionHistories");
-                });
-
-            modelBuilder.Entity("atm_machine_api.Models.UsersTransactionHistory", b =>
-                {
-                    b.HasOne("atm_machine_api.Models.Users", "Users")
-                        .WithMany("UsersTransactionHistory")
-                        .HasForeignKey("Usersid");
-
-                    b.Navigation("Users");
-                });
-
-            modelBuilder.Entity("atm_machine_api.Models.Users", b =>
-                {
-                    b.Navigation("UsersTransactionHistory");
                 });
 #pragma warning restore 612, 618
         }

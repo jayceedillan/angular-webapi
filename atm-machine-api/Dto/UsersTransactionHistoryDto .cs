@@ -4,8 +4,10 @@ namespace atm_machine_api.Dto
 {
     public class UsersTransactionHistoryDto
     {
+
+
         [Required]
-        public int pinNo { get; set; }
+        public int userId { get; set; }
 
         [Required]
         public int amount { get; set; }

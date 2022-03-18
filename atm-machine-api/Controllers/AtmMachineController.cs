@@ -52,6 +52,7 @@ namespace atm_machine_api.Controllers
                 var authDto = new AuthDto();
                 authDto.token = new JwtSecurityTokenHandler().WriteToken(token);
                 authDto.id = usersDto.id;
+                authDto.currentBalance = usersDto.balance;
                 return Ok(authDto);
             }
 
@@ -68,10 +69,18 @@ namespace atm_machine_api.Controllers
         }
 
         [HttpGet]
-        [Route("getAllTransactions"), Authorize]
-        public async Task<ActionResult<IEnumerable<UsersTransactionHistoryDto>>> getAllTransactions(int pinNo)
+        [Route("getAllTransactions/{id}"), Authorize]
+        public async Task<ActionResult<IEnumerable<UsersTransactionHistoryDto>>> getAllTransactionsById(int id)
         {
-            var userTransactions = await iAtmMachineRepository.getAllTransaction(pinNo);
+            var userTransactions = await iAtmMachineRepository.getAllTransactionsById(id);
+            return Ok(userTransactions);
+        }
+
+        [HttpGet]
+        [Route("getAllTransactions"), Authorize]
+        public async Task<ActionResult<IEnumerable<UsersTransactionHistoryDto>>> getAllTransactions()
+        {
+            var userTransactions = await iAtmMachineRepository.getAllTransactions();
             return Ok(userTransactions);
         }
 
@@ -88,5 +97,17 @@ namespace atm_machine_api.Controllers
             return BadRequest(new { message = "error while saving" });
         }
 
+        [HttpGet]
+        [Route("getCurrentBalance/{id}"), Authorize]
+        public async Task<ActionResult<int>> getCurrentBalance(int id)
+        {
+            var userBalance = await iAtmMachineRepository.getCurrentBalanceByUser(id);
+
+            if (userBalance != 0)
+            {
+                return Ok(userBalance);
+            }
+            return BadRequest(new { message = "No current balance." });
+        }
     }
 }

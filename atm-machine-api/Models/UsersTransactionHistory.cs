@@ -10,8 +10,8 @@ namespace atm_machine_api.Models
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int id { get; set; }
 
-        [Required]
-        public int pinNo { get; set; }
+
+
 
         [Required]
         public int amount { get; set; }
@@ -21,6 +21,9 @@ namespace atm_machine_api.Models
 
         [Required]
         public string typeOfTransaction { get; set; }
+
+        public int userId { get; set; }
+        public Users Users { get; set; }
 
     }
 }

@@ -8,6 +8,9 @@ namespace atm_machine_api.Dto
         public int id { get; set; }
 
         [Required]
+        public int currentBalance { get; set; }
+
+        [Required]
         public string token { get; set; }
     }
 }

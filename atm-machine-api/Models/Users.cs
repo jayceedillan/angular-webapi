@@ -25,5 +25,8 @@ namespace atm_machine_api.Models
         [Required]
         public int pinNo { get; set; }
 
+        public int userId { get; set; }
+
+        public ICollection<UsersTransactionHistory> UsersTransactionHistory { get; set; }
     }
 }

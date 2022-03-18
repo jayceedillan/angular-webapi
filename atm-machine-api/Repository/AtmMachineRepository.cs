@@ -12,7 +12,7 @@ namespace atm_machine_api.Repository
             dbContext = context;
         }
 
-        public async Task<UsersDto> getPinNo(int PinNo)
+        public async Task<UsersDto> getPinNo(int pinNo)
         {
             var userDto = await (from user in dbContext.Users
                                  select new UsersDto()
@@ -24,7 +24,7 @@ namespace atm_machine_api.Repository
                                      lastName = user.lastName,
                                      pinNo = user.pinNo,
                                  }
-            ).FirstOrDefaultAsync();
+            ).Where(x => x.pinNo == pinNo).FirstOrDefaultAsync();
 
             return userDto;
         }
@@ -42,16 +42,32 @@ namespace atm_machine_api.Repository
             }).ToListAsync();
         }
 
-        public async Task<IEnumerable<UsersTransactionHistoryDto>> getAllTransaction(int pinNo)
+        public async Task<IEnumerable<UsersTransactionHistoryDto>> getAllTransactionsById(int id)
         {
-            var allTransaction = await dbContext.UsersTransactionHistories.Select(user =>
+
+            var allTransaction = await dbContext.UserTransactionHistories.Select(user =>
             new UsersTransactionHistoryDto()
             {
-                pinNo = user.pinNo,
+                userId = user.userId,
                 amount = user.amount,
                 transactionDate = user.transactionDate,
                 typeOfTransaction = user.typeOfTransaction
-            }).Where(x => x.pinNo == pinNo).ToListAsync();
+            }).Where(x => x.userId == id).ToListAsync();
+
+            return allTransaction;
+        }
+
+        public async Task<IEnumerable<UsersTransactionHistoryDto>> getAllTransactions()
+        {
+
+            var allTransaction = await dbContext.UserTransactionHistories.Select(user =>
+            new UsersTransactionHistoryDto()
+            {
+                userId = user.userId,
+                amount = user.amount,
+                transactionDate = user.transactionDate,
+                typeOfTransaction = user.typeOfTransaction
+            }).ToListAsync();
 
             return allTransaction;
         }
@@ -60,11 +76,13 @@ namespace atm_machine_api.Repository
         {
             var usersTransactionHistory = new UsersTransactionHistory();
             usersTransactionHistory.amount = usersTransactionHistoryDto.amount;
-            usersTransactionHistory.pinNo = usersTransactionHistoryDto.pinNo;
+            // usersTransactionHistory.pinNo = usersTransactionHistoryDto.pinNo;
+            usersTransactionHistory.transactionDate = new DateTime();
+            usersTransactionHistory.userId = usersTransactionHistoryDto.userId;
             usersTransactionHistory.typeOfTransaction = usersTransactionHistoryDto.typeOfTransaction;
-            dbContext.UsersTransactionHistories.Add(usersTransactionHistory);
+            dbContext.UserTransactionHistories.Add(usersTransactionHistory);
 
-            var user = dbContext.Users.Where(x => x.pinNo == usersTransactionHistoryDto.pinNo).FirstOrDefault();
+            var user = dbContext.Users.Where(x => x.id == usersTransactionHistoryDto.userId).FirstOrDefault();
 
             if (user != null)
             {
@@ -88,8 +106,13 @@ namespace atm_machine_api.Repository
             {
                 return false;
             }
+        }
 
-
+        public async Task<int> getCurrentBalanceByUser(int id)
+        {
+            var user = await dbContext.Users.Where(x => x.id == id).FirstOrDefaultAsync();
+            return user.balance;
         }
     }
+
 }
