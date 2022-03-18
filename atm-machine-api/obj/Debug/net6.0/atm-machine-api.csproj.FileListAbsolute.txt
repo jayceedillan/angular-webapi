@@ -1,0 +1,195 @@
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/appsettings.Development.json
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/appsettings.json
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/atm-machine-api
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/atm-machine-api.deps.json
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/atm-machine-api.runtimeconfig.json
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/atm-machine-api.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/ref/atm-machine-api.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/atm-machine-api.pdb
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Humanizer.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/obj/Debug/net6.0/atm-machine-api.csproj.AssemblyReference.cache
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/obj/Debug/net6.0/atm-machine-api.GeneratedMSBuildEditorConfig.editorconfig
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/obj/Debug/net6.0/atm-machine-api.AssemblyInfoInputs.cache
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/obj/Debug/net6.0/atm-machine-api.AssemblyInfo.cs
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/obj/Debug/net6.0/atm-machine-api.csproj.CoreCompileInputs.cache
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/obj/Debug/net6.0/atm-machine-api.MvcApplicationPartsAssemblyInfo.cs
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/obj/Debug/net6.0/atm-machine-api.MvcApplicationPartsAssemblyInfo.cache
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/obj/Debug/net6.0/staticwebassets.build.json
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/obj/Debug/net6.0/staticwebassets.development.json
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/obj/Debug/net6.0/scopedcss/bundle/atm-machine-api.styles.css
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/obj/Debug/net6.0/atm-machine-api.csproj.CopyComplete
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/obj/Debug/net6.0/atm-machine-api.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/obj/Debug/net6.0/ref/atm-machine-api.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/obj/Debug/net6.0/atm-machine-api.pdb
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/obj/Debug/net6.0/atm-machine-api.genruntimeconfig.cache
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/AutoMapper.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-api/atm-machine-api/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/appsettings.Development.json
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/appsettings.json
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/atm-machine-api
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/atm-machine-api.deps.json
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/atm-machine-api.runtimeconfig.json
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/atm-machine-api.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/ref/atm-machine-api.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/atm-machine-api.pdb
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/AutoMapper.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Humanizer.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/obj/Debug/net6.0/atm-machine-api.csproj.AssemblyReference.cache
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/obj/Debug/net6.0/atm-machine-api.GeneratedMSBuildEditorConfig.editorconfig
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/obj/Debug/net6.0/atm-machine-api.AssemblyInfoInputs.cache
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/obj/Debug/net6.0/atm-machine-api.AssemblyInfo.cs
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/obj/Debug/net6.0/atm-machine-api.csproj.CoreCompileInputs.cache
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/obj/Debug/net6.0/atm-machine-api.MvcApplicationPartsAssemblyInfo.cs
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/obj/Debug/net6.0/atm-machine-api.MvcApplicationPartsAssemblyInfo.cache
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/obj/Debug/net6.0/staticwebassets.build.json
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/obj/Debug/net6.0/staticwebassets.development.json
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/obj/Debug/net6.0/scopedcss/bundle/atm-machine-api.styles.css
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/obj/Debug/net6.0/atm-machine-api.csproj.CopyComplete
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/obj/Debug/net6.0/atm-machine-api.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/obj/Debug/net6.0/ref/atm-machine-api.dll
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/obj/Debug/net6.0/atm-machine-api.pdb
+/home/jfurigay/Desktop/net Project/Angular/atm-machine-api/obj/Debug/net6.0/atm-machine-api.genruntimeconfig.cache
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/appsettings.Development.json
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/appsettings.json
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/atm-machine-api
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/atm-machine-api.deps.json
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/atm-machine-api.runtimeconfig.json
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/atm-machine-api.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/ref/atm-machine-api.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/atm-machine-api.pdb
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/AutoMapper.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Humanizer.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/obj/Debug/net6.0/atm-machine-api.csproj.AssemblyReference.cache
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/obj/Debug/net6.0/atm-machine-api.GeneratedMSBuildEditorConfig.editorconfig
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/obj/Debug/net6.0/atm-machine-api.AssemblyInfoInputs.cache
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/obj/Debug/net6.0/atm-machine-api.AssemblyInfo.cs
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/obj/Debug/net6.0/atm-machine-api.csproj.CoreCompileInputs.cache
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/obj/Debug/net6.0/atm-machine-api.MvcApplicationPartsAssemblyInfo.cs
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/obj/Debug/net6.0/atm-machine-api.MvcApplicationPartsAssemblyInfo.cache
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/obj/Debug/net6.0/staticwebassets.build.json
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/obj/Debug/net6.0/staticwebassets.development.json
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/obj/Debug/net6.0/scopedcss/bundle/atm-machine-api.styles.css
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/obj/Debug/net6.0/atm-machine-api.csproj.CopyComplete
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/obj/Debug/net6.0/atm-machine-api.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/obj/Debug/net6.0/ref/atm-machine-api.dll
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/obj/Debug/net6.0/atm-machine-api.pdb
+/home/jfurigay/Desktop/dev/angular-webpapi/atm-machine-api/obj/Debug/net6.0/atm-machine-api.genruntimeconfig.cache

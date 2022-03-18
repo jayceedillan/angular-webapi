@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lRKMoCbvqCNqCRD6J3Lmnmic8lNfjEt0zYs8EsmX8WE=",
+  "Source": "atm-machine-api",
+  "BasePath": "_content/atm-machine-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
